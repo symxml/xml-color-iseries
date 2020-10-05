@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+
+<!--***** START Printer 1 Variables from XML file URL   ******-->
+
+<InstallVariables>
+<InstallVar name="ipaddress1">10.0.0.200</InstallVar>
+<InstallVar name="Location1">HomeOffice</InstallVar>
+<InstallVar name="PPDModel1">558</InstallVar>
+<InstallVar name="PrinterNamebw1">KM_BW</InstallVar>
+<InstallVar name="PrinterNameclr1">KM_COLOR</InstallVar>
+
+<!--***** Printer 1 options settings below Variables - SEE THE MFP OPTIONS LIST IN TGHE FOLDER - EXAMPLE FS533_EagleL or set to None - OPTIONAL   ******-->
+
+<InstallVar name="Options1">-o PaperSources=PC410_ZeusSZ -o Finisher=FS536_ZeusSX0</InstallVar>
+
+<!--***** START Printer 2 Variables from XML file URL OPTIONAL   *********************-->
+
+<InstallVar name="ipaddress2">10.0.0.201</InstallVar>
+<InstallVar name="Location2">Office</InstallVar>
+<InstallVar name="PPDModel2">368</InstallVar>
+<InstallVar name="PrinterNamebw2">KM2_BW</InstallVar>
+<InstallVar name="PrinterNameclr2">KM2_COLOR</InstallVar>
+
+<!--***** Printer 2 options settings below Variables - SEE THE MFP OPTIONS LIST IN TGHE FOLDER - EXAMPLE FS533_EagleL or set to None - OPTIONAL   ******-->
+
+<InstallVar name="Options2">-o PaperSources=PC210 -o Finisher=FS533</InstallVar>
+
+<!--***** START Printer 3 Variables from XML file URL OPTIONAL    ******************************-->
+
+<InstallVar name="ipaddress3">10.0.0.202</InstallVar>
+<InstallVar name="Location3">Office</InstallVar>
+<InstallVar name="PPDModel3">458</InstallVar>
+<InstallVar name="PrinterNamebw3">KM3_BW</InstallVar>
+<InstallVar name="PrinterNameclr3">KM3_COLOR</InstallVar>
+
+<!--***** Printer 3 options settings below Variables - SEE THE MFP OPTIONS LIST IN TGHE FOLDER - EXAMPLE FS533_EagleL or set to None - OPTIONAL   ******-->
+
+<InstallVar name="Options3">-o PaperSources=PC410_ZeusSZ -o Finisher=FS536_ZeusSX0</InstallVar>
+
+<!--***** END Variables from XML file URL   ******-->
+
+
+<!--***** SEE THE MFP OPTIONS LIST IN TGHE FOLDER   ******-->
+
+</InstallVariables>
